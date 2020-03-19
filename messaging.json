@@ -1,0 +1,8 @@
+[
+  {
+    "description": "Just a field for test",
+    "name": "first_field",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]
